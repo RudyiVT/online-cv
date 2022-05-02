@@ -13,7 +13,6 @@ sidebar:
     citizenship:
     linkedin: volodymyr-rudyi-437ba988
     telegram: vrudyi
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
@@ -58,7 +57,7 @@ education:
 experiences:
     - role: Lead Data Scientist
       time: 2019-09 - 2022-02
-      company: Parimatch Tech https://parimatch.tech , Kyiv
+      company: Parimatch Tech, Kyiv
       details: |
         - Build and manage Data Science team from scratch
         - Establish full range of  anti fraud solutions
@@ -68,7 +67,7 @@ experiences:
 
     - role: Head of Data Science
       time: 2018-04 - 2019-12
-      company: Homsters (https://homsters.com), Kyiv
+      company: Homsters, Kyiv
       details: |
          - Manage Data Science team
          - Build recommendation system for search
