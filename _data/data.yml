@@ -32,6 +32,7 @@ career-profile:
     title: Career Profile
     summary: |
       Data Science Expert and Manager with math and statistics degree focused on solving real business problems.
+      I have worked with connecting the dots and interact with people in various functions, identify product challenges, propose solutions, and drive sustainable product impact
       
       Specialities:
       - Anti fraud
@@ -59,9 +60,10 @@ experiences:
       time: 2019-09 - 2022-02
       company: Parimatch Tech, Kyiv
       details: |
-        - Build and manage Data Science team from scratch
+        - Build and manage Data Science team
+        - Collaborate with product managers, engineers, and other data teams to drive product impact
         - Establish full range of  anti fraud solutions
-        - Develop models for payment processing which allows to make real time decision on withdrawal requests
+        - Develop models for payment processing for real time decision on withdrawal requests
         - Organize web data collection process and realtime features generation
         - Implement MLOps practices
 
@@ -71,7 +73,7 @@ experiences:
       details: |
          - Manage Data Science team
          - Build recommendation system for search
-         - Implement A/B testing
+         - Implement and analyse A/B testing
          - Develop ML models for user behavior prediction
          - Create tools for CTR, CR, LTV prediction and models for advertising campaign optimization
 
@@ -79,7 +81,7 @@ experiences:
       time: 2017-04 - 2018-11
       company: Innovizo, Kyiv
       details: |
-         - Create and present models and solutions for an existing and potential clients
+         - Create and present models and solutions for existing and potential clients
          - Prepare projects workflow and documentation 
          - Develop prediction and optimization algorithms for energy demand programs
 
@@ -124,17 +126,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python (scikit-learn, pytorch, tensorflow, numpy, scipy, pandas, nltk, matplotlib, seaborn, plotly, collections, itertools, pydantic, flake8, flask, fastAPI)
+      - name: Python (scikit-learn, pytorch, tensorflow, tabnet, numpy, scipy, pandas, nltk, matplotlib, seaborn, plotly, collections, itertools, pydantic, flake8, flask, fastAPI)
         level: 98%
 
-      - name: DB (S3, AWS Athena, BigQuery, MS SQL, PostgreSQL, Kafka, Redis)
+      - name: DB (S3, AWS Athena, BigQuery, MS SQL, PostgreSQL, Kafka, Redis, Spark)
         level: 95%
 
-      - name: MLOps (MLflow, DVC, weights & biases)
+      - name: MLOps (MLflow, DVC, Airflow, Growthbook, weights & biases)
         level: 85%
 
       - name: R (caret, dplyr, ggplot2, Shiny, etc.)
         level: 80%
 
-      - name: Airlow
-        level: 80%
+      - name: Visualization & Reporting (Superset, Tableau)
+        level: 90%
