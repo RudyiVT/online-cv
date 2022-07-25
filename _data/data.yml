@@ -34,7 +34,7 @@ career-profile:
     Data Science Expert and Manager with math and statistics background focused on solving real business problems.
     I have worked with connecting the dots and interact with people in various functions, identify product challenges, propose solutions, and drive sustainable product impact.
     
-    My expertise covers all part DS/ML projects. From business understanding and building comunication with business stakeholders and to deploying solution to production with all required components like feature storage, monitoring and model retraining.  
+    My expertise covers all part of DS/ML projects. From business understanding and building comunication with business stakeholders and to deploying solution to production with all required components like feature storage, monitoring and model retraining.  
     
     I'm based in Rome, Italy and looking for a full-time opportunity for ambitious projects with challenging goals.
     
@@ -70,6 +70,7 @@ experiences:
       - Implement the requisite toolkit (Airflow, Growthbook, Superset)
       - Organize workflow for analytic requests
       - Develop ML solutions for critical business problems
+
   - role: Lead Data Scientist
     time: 2019-09 - 2022-02
     company: Parimatch Tech, Kyiv
@@ -124,13 +125,13 @@ projects:
       link: "https://www.coursera.org/account/accomplishments/certificate/L3XUQJVQADCC"
       tagline: ""
 
-    - title: 2022-02 Machine Learning DevOps Enginee
+    - title: 2022-02 Machine Learning DevOps Engineer
       link: "https://graduation.udacity.com/api/graduation/certificate/7FPLTAN9/download"
 
     - title: 2020-12 Structuring Machine Learning Projects
       link: "https://www.coursera.org/account/accomplishments/certificate/W9HSL5MLV8SD"
 
-    - title: 2019-04 Improving Deep Neural Networks':' Hyperparameter tuning, Regularization and OptimizationNeural Networks and Deep Learning
+    - title: 2019-04 Improving Deep Neural Networks. Hyperparameter tuning, Regularization and OptimizationNeural Networks and Deep Learning
       link: "https://www.coursera.org/account/accomplishments/certificate/HA3WXT9XX2TQ"
 
     - title: 2017-04 Neural Networks and Deep Learning
