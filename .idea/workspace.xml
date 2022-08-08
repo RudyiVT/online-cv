@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="db93a9b4-1191-4c3f-a9c8-a4d605e4a634" name="Changes" comment="remove how to section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/data.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +106,7 @@
       <workItem from="1654070816373" duration="2240000" />
       <workItem from="1657617995243" duration="710000" />
       <workItem from="1658224123602" duration="1207000" />
-      <workItem from="1658741387293" duration="3732000" />
+      <workItem from="1658741387293" duration="4229000" />
     </task>
     <task id="LOCAL-00001" summary="remove how to section">
       <created>1651483902400</created>
