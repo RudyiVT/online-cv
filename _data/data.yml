@@ -31,21 +31,13 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I'm a Data Science Expert and Manager with math and statistics background focused on solving real business problems.
-    I have worked with connecting the dots and interacting with people in various functions, identifying product challenges, proposing solutions, and drive sustainable product impact.
-    
-    My expertise covers all parts of DS/ML projects. From business understanding and building communication with business stakeholders to deploying solutions to production with all required components like feature storage, monitoring and model retraining.  
-    I looking for a full-time opportunity for an ambitious project with challenging goals.
+    Data Science Expert and Manager with math and statistics background focused on solving real business problems. 
+    I have been working on connecting the dots and interacting with people in various functions, identifying product challenges, proposing solutions, and driving sustainable product impact.
+    Proven experience in end-to-end data science projects including requirement gathering, data extraction, model development, deployment and monitoring
     
     Open to relocation. 
     
-    Specialities:
-    - Anti-fraud
-    - E-commerce
-    - Real Estate
-    - Betting
-    - Algorithmic trading 
-    - Web Data Collection 
+    Competencies: Data Science, Machine Learning, Statistics, Mathematics, Financial Markets, E-commerce, Anti-fraud, Recommendation System, NLP, Time Series.
 
 education:
   - degree: MA Business And Financial Economics
@@ -61,14 +53,13 @@ education:
     time: 2010 - 2014
 
 experiences:
-  - role: Analytics Lead
+  - role: Analytics Lead (contract)
     time: 2022-02 - 2022-06
     company: Evercon, Kyiv
     details: |
-      - Reorganize analytics team
       - Implement the requisite toolkit (Airflow, Growthbook, Superset)
-      - Organize workflow for analytic requests
-      - Develop ML solutions for critical business problems
+      - Organize workflow for ad-hoc analytic requests
+      - Develop ML solutions for marketing traffic estimation in the early stages
 
   - role: Lead Data Scientist
     time: 2019-09 - 2022-02
