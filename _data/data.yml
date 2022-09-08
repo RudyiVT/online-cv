@@ -33,9 +33,7 @@ career-profile:
   summary: |
     Data Science Expert and Manager with math and statistics background focused on solving real business problems. 
     I have been working on connecting the dots and interacting with people in various functions, identifying product challenges, proposing solutions, and driving sustainable product impact.
-    Proven experience in end-to-end data science projects including requirement gathering, data extraction, model development, deployment and monitoring
-    
-    Open to relocation. 
+    Proven experience in end-to-end data science projects including requirement gathering, data extraction, model development, deployment and monitoring 
     
     Competencies: Data Science, Machine Learning, Statistics, Mathematics, Financial Markets, E-commerce, Anti-fraud, Recommendation System, NLP, Time Series.
 
@@ -54,8 +52,8 @@ education:
 
 experiences:
   - role: Analytics Lead (contract)
-    time: 2022-02 - 2022-06
-    company: Evercon, Kyiv
+    time: 2022-03 - 2022-07
+    company: Evercon
     details: |
       - Implement the requisite toolkit (Airflow, Growthbook, Superset)
       - Organize workflow for ad-hoc analytic requests
@@ -63,7 +61,7 @@ experiences:
 
   - role: Lead Data Scientist
     time: 2019-09 - 2022-02
-    company: Parimatch Tech, Kyiv
+    company: Parimatch Tech
     details: |
       - Build and manage the Data Science team
       - Collaborate with product managers, engineers, and other teams to drive product impact
@@ -74,7 +72,7 @@ experiences:
 
   - role: Head of Data Science
     time: 2018-04 - 2019-12
-    company: Homsters, Kyiv
+    company: Homsters
     details: |
       - Manage Data Science team
       - Build a recommendation  system for search
@@ -84,7 +82,7 @@ experiences:
 
   - role: Data Scientist
     time: 2017-04 - 2018-11
-    company: Innovizo, Kyiv
+    company: Innovizo
     details: |
       - Create and present models and solutions for existing and potential clients
       - Prepare projects workflow and documentation 
@@ -92,7 +90,7 @@ experiences:
 
   - role: Data Scientist
     time: 2016-04 - 2017-04
-    company: Roundforest, Kyiv
+    company: Roundforest
     details: |
       - Develop recommendation and a scoring model for products comparison from Amazon, Walmart, eBay, etc
       - Increase revenue by ~35% using ML models 
@@ -102,7 +100,7 @@ experiences:
 
   - role: Data Scientist
     time: 2015-02 - 2017-03
-    company: Real Estate Estimator, Kyiv
+    company: Real Estate Estimator
     details: |
       - Scrape data from real estate platforms
       - Build outlier detection and clustering models 
