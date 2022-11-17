@@ -57,7 +57,7 @@ experiences:
     details: |
       - Setup ELT pipelines on GCP and AWS using Airflow, Airbyte, dbt
       - Organize workflow for ad-hoc analytic requests
-      - Develop ML solutions for marketing traffic estimation, Car Price prediction, Estimated Delivery Time 
+      - Develop ML solutions for Marketing traffic estimation, Delivery Time Estimation, Car Price Prediction 
 
   - role: Lead Data Scientist
     time: 2019-09 - 2022-02
