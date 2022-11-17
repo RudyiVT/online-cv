@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db93a9b4-1191-4c3f-a9c8-a4d605e4a634" name="Changes" comment="remove how to section">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/data.yml" afterDir="false" />
     </list>
@@ -116,7 +117,11 @@
       <workItem from="1662473279420" duration="69000" />
       <workItem from="1662646127042" duration="588000" />
       <workItem from="1663056709057" duration="150000" />
-      <workItem from="1663755533381" duration="15000" />
+      <workItem from="1663755533381" duration="435000" />
+      <workItem from="1663769970791" duration="449000" />
+      <workItem from="1663932514902" duration="13000" />
+      <workItem from="1668709442103" duration="667000" />
+      <workItem from="1668715620063" duration="444000" />
     </task>
     <task id="LOCAL-00001" summary="remove how to section">
       <created>1651483902400</created>

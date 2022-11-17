@@ -35,7 +35,7 @@ career-profile:
     I have been working on connecting the dots and interacting with people in various functions, identifying product challenges, proposing solutions, and driving sustainable product impact.
     Proven experience in end-to-end data science projects including requirement gathering, data extraction, model development, deployment and monitoring 
     
-    Competencies: Data Science, Machine Learning, Statistics, Mathematics, Financial Markets, E-commerce, Anti-fraud, Recommendation System, NLP, Time Series.
+    Competencies: Data Science, Machine Learning, Data Engineering, Statistics, Mathematics, Financial Markets, E-commerce, Anti-fraud, Recommendation System, NLP, Time Series.
 
 education:
   - degree: MA Business And Financial Economics
@@ -51,13 +51,13 @@ education:
     time: 2010 - 2014
 
 experiences:
-  - role: Analytics Lead (contract)
-    time: 2022-03 - 2022-07
-    company: Evercon
+  - role: ML/DS Consultant
+    time: 2022-03 - now
+    company: Self-employed
     details: |
-      - Implement the requisite toolkit (Airflow, Growthbook, Superset)
+      - Setup ELT pipelines on GCP and AWS using Airflow, Airbyte, dbt
       - Organize workflow for ad-hoc analytic requests
-      - Develop ML solutions for marketing traffic estimation in the early stages
+      - Develop ML solutions for marketing traffic estimation, Car Price prediction, Estimated Delivery Time 
 
   - role: Lead Data Scientist
     time: 2019-09 - 2022-02
@@ -132,10 +132,10 @@ skills:
     - name: Python (scikit-learn, pytorch, tensorflow, tabnet, numpy, scipy, pandas, nltk, matplotlib, seaborn, plotly, collections, itertools, pydantic, flake8, flask, fastAPI)
       level: 98%
 
-    - name: DWH (S3, AWS Athena, BigQuery, MS SQL, PostgreSQL, Kafka, Redis, Spark)
+    - name: DWH (AWS Athena, BigQuery, MS SQL, PostgreSQL, Kafka, Redis, Spark)
       level: 95%
 
-    - name: MLOps (MLflow, DVC, Airflow, Growthbook, weights & biases)
+    - name: MLOps (MLflow, DVC, Airflow, Growthbook, weights & biases, Airbyte, dbt)
       level: 85%
 
     - name: R (caret, dplyr, ggplot2, Shiny, etc.)
